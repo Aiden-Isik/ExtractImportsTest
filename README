@@ -2,7 +2,7 @@ Copyright (c) 2024 Aiden Isik
 
 Licensed under GNU AGPL, either version 3 or, at your option, any later version.
 
-This is a test program for a very specific prerelease version of SynthXEX (commit 095b42f) which extracts the import header to be plugged into the program for testing purposes.
+This is a test program for a very specific prerelease version of SynthXEX (commit d9c6951) which extracts the import header to be plugged into the program for testing purposes.
 
 COMPILING: gcc main.c -o extrimports
 
